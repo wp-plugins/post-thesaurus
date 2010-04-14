@@ -1,0 +1,96 @@
+/* 
+ * Admin Thesaurus Styling
+ * Author: matt@nooshu.com
+ */
+#ta_search {width: 178px;}
+/* Results Styling ***********************************/
+#ta_results {display: none;}
+#ta_results .ta_inner {
+	border: 1px solid #DFDFDF;
+	-moz-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	margin: 10px 0 0;
+	padding: 5px;
+	}
+#athesaurus_meta #ta_results p {
+	margin: 0;
+	padding: 0;
+	}
+#athesaurus_meta #ta_results .ta_main {
+	font-style: italic;
+	margin: 0 0 2px;
+	font-weight: 700;
+	}
+#athesaurus_meta #ta_results .ta_type {
+	font-weight: 700;
+	margin: 0 0 0 6px;
+	font-size: 0.89em;
+	}
+#athesaurus_meta #ta_results ul {
+	overflow: hidden;
+	margin: 0 0 12px 6px;
+	}
+#athesaurus_meta #ta_results ul li {
+	line-height: 1.3;
+	float: left;
+	display: inline;
+	font-size: 0.83em;
+	margin: 0 8px 0 0;
+	}
+#athesaurus_meta #ta_results #ta_links {
+	overflow: hidden;
+	padding: 3px;
+	margin: 0;
+	}
+#athesaurus_meta #ta_links .last {
+	float: right;
+	margin: 0;
+	}
+#athesaurus_meta #ta_links .bhlLink {margin: 8px 0 0;}
+/* Loading */
+#ta_loading {
+	background: url(../images/loader.gif) no-repeat;
+	width: 32px;
+	height: 32px;
+	margin: 10px auto;
+	display: none;
+	}
+/* Options */
+#ta_options {
+	overflow: hidden;
+	margin: 3px 0 3px 3px;
+	}
+#ta_options li {
+	float: left;
+	margin: 0 10px 0 0;
+	font-size: 0.89em;
+	}
+#ta_options li strong {
+	display: block;
+	margin: 2px 0 0;
+	}
+/* Admin Page ****************************************/
+#taSettings .inside {padding: 16px 10px 10px;}
+#taSettings ul {margin: 0 0 16px;}
+#bhtKey {width: 250px;}
+#taSettings p {width: 70%;}
+#taSettings blockquote {
+	font-style: italic;
+	font-size: 0.93em;
+	width: 50%;
+	}
+#taSettings #ta_uninstall {margin: 40px 0 16px;}
+#taSettings #ta_promotion {
+	overflow: hidden;
+	margin: 0 0 8px -3px;
+	}
+#taSettings #ta_promotion li {
+	float: left;
+	display: inline;
+	border-right: 1px solid #333;
+	padding: 0 6px;
+	font-size: 0.89em;
+	}
+#taSettings #ta_promotion .last {border: 0;}
