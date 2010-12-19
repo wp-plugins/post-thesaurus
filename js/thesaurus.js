@@ -13,10 +13,10 @@ jQuery(function($){
 			$.each(relData, function(i, set){
 				switch(i){
 					case "syn":
-						generatedHTML += "<p class='ta_type'>Synonymons</p>";
+						generatedHTML += "<p class='ta_type'>Synonyms</p>";
 						break;
 					case "ant":
-						generatedHTML += "<p class='ta_type'>Antonymons</p>";
+						generatedHTML += "<p class='ta_type'>Antonyms</p>";
 						break;
 					case "rel":
 						generatedHTML += "<p class='ta_type'>Related</p>";
