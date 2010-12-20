@@ -2,8 +2,8 @@
 Contributors: Matt Hobbs
 Tags: post,thesaurus,words,help,admin,widget,inspiration,ideas
 Requires at least: 2.5
-Tested up to: 2.9.2
-Stable tag: 1.0.0.0
+Tested up to: 3.03
+Stable tag: 1.0.0.1
 
 Adds a helper widget to your 'Add new post' page that allows you to search for similar words.
 * Nouns
@@ -46,10 +46,16 @@ folder structure e.g. /wp-content/plugins/post-thesaurus/.
 This can happen if you have an invalid API key, double check the key or click uninstall on the admin page to reset the API key.
 
 == Changelog ==
+= 1.0.0.1 =
+* Fixed a small spelling error (oops!)
+
 = 1.0.0.0 =
 * Initital version of the Post Thesaurus plug-in released.
 
 
 == Upgrade Notice ==
+= 1.0.0.1 =
+* Fixed a small spelling error (oops!)
+
 = 1.0.0.0 =
 * Initital version of the Post Thesaurus plug-in released.
