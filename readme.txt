@@ -2,7 +2,7 @@
 Contributors: Matt Hobbs
 Tags: post,thesaurus,words,help,admin,widget,inspiration,ideas
 Requires at least: 2.5
-Tested up to: 3.03
+Tested up to: 3.0.3
 Stable tag: 1.0.0.1
 
 Adds a helper widget to your 'Add new post' page that allows you to search for similar words.

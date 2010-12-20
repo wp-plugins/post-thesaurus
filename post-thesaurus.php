@@ -4,7 +4,7 @@
 	Plugin URI: http://nooshu.com/wordpress-plug-in-post-thesaurus/
 	Description: Thesaurus box that sits on you 'Add new post' page for easy word lookup.
 	Author: <a href="http://www.nooshu.com/">Matt Hobbs</a>
-	Version: 1.0.0.0
+	Version: 1.0.0.1
 	Author URI: http://nooshu.com/
 */
 
@@ -27,7 +27,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 //Define the version
-define('POST_THESAURUS_VERSION', '1.0.0.0');
+define('POST_THESAURUS_VERSION', '1.0.0.1');
 
 /**
  * Thesaurus Class
